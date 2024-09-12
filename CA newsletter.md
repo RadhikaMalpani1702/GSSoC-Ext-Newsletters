@@ -1,4 +1,4 @@
-# 🌟 GirlScript Summer of Code '24 Extended Edition 🌟
+# 🌟 Registrations for GirlScript Summer of Code '24 Extended Edition 🌟
 
 Due to the overwhelming response and enthusiasm of participants in GSSoC '24, we are **organizing a new Extended program** to provide more opportunities for contribution and growth! This extension will help us continue promoting the principles of open source, GitHub, and community engagement. We are dedicated to fostering a thriving open-source ecosystem and analyzing the ongoing GSSoC '24 statistics to optimize participant experience.
 
