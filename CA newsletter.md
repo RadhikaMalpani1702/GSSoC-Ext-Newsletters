@@ -1,16 +1,12 @@
-# 🌟 Extended GirlScript Summer of Code (GSSoC) '24 🌟
+# 🌟 GirlScript Summer of Code '24 Extended Edition 🌟
 
-GirlScript Summer of Code (GSSoC) is a 3-month-long Open Source program organized by the **GirlScript Foundation**. Since its inception in 2018, GSSoC has been on a mission to help beginners dive into the world of Open Source Development while promoting diversity and inclusion. Throughout the program, participants contribute to a variety of projects under the guidance of experienced mentors. The top contributors are rewarded with exciting goodies, opportunities for further growth, and invaluable experience.
+Due to the overwhelming response and enthusiasm of participants in GSSoC '24, we are **organizing a new Extended program** to provide more opportunities for contribution and growth! This extension will help us continue promoting the principles of open source, GitHub, and community engagement. We are dedicated to fostering a thriving open-source ecosystem and analyzing the ongoing GSSoC '24 statistics to optimize participant experience.
 
-## 🚀 What's New? Exciting News for GSSoC '24!
+### 📅 Program Duration
 
-Due to the overwhelming response and enthusiasm of participants in GSSoC '24, we are **extending the program** to provide more opportunities for contribution and growth! This extension will help us continue promoting the principles of open source, GitHub, and community engagement. We are dedicated to fostering a thriving open-source ecosystem and analyzing the ongoing GSSoC '24 statistics to optimize participant experience.
+The GSSOC 24 Extended program will run for **30 days** from **October 1st to November 1st**. This extension will allow participants to:
 
-### 📅 Extended Program Duration
-
-The extended program will run for an additional **30 days**, with a possible **10-day extension**. This extension will allow participants to:
-
-- **Work on more complex and impactful issues** across various open-source projects.
+- **Work and contribte** across various open-source projects.
 - **Collaborate and network** with mentors, contributors, and project admins to enhance their skills.
 - **Earn more points and improve their ranks** in the leaderboard for exciting rewards.
 
@@ -22,6 +18,9 @@ We are excited to announce that **Campus Ambassador (CA) registrations** will op
 
 ### 👉 [Register Now as a Campus Ambassador](https://gssoc.girlscript.tech/registration)
 
+![image](https://github.com/user-attachments/assets/77013ba6-950d-4837-8292-bb0c3f7504ec)
+
+**THE COUNTDOWN HAS STARTED!!**
 **Benefits of Becoming a Campus Ambassador:**
 - Be the face of GSSoC in your institution.
 - Help others learn and contribute to open source.
@@ -42,8 +41,8 @@ We are excited to announce that **Campus Ambassador (CA) registrations** will op
 We have an incredible team driving this initiative forward. Connect with our core team members on LinkedIn:
 
 - [Sanjay Viswanathan](https://www.linkedin.com/in/sanjay-k-v/)
-- [Mastan Sayyad](https://www.linkedin.com/in/mastan-sayyad-126904223/)
 - [Hemanth](https://www.linkedin.com/in/hemu21/)
+- [Mastan Sayyad](https://www.linkedin.com/in/mastan-sayyad-126904223/)
 - [Radhika Malpani](https://www.linkedin.com/in/radhikamalpani1702/)
 - [Suhani Singh Paliwal](https://www.linkedin.com/in/suhani-singh-paliwal/)
 
