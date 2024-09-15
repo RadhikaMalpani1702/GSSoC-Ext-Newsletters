@@ -6,6 +6,8 @@ We are excited to inform you that you have been selected as a **Campus Ambassado
 
 As a Campus Ambassador, you will play a key role in spreading the word about the program, organizing events, and motivating fellow students to engage with the open-source community. We are confident you will excel in this leadership role, and your efforts will contribute to making this program a great success!
 
+**Your Referal Code is:** 
+
 ## What’s Next?
 
 1. **Join the Ambassador Community on Discord**  
@@ -28,11 +30,18 @@ As a Campus Ambassador, you will have the following responsibilities:
 - **Foster Participation**: Encourage students to participate in the program, attend webinars, and make contributions.
 - **Engage & Report**: Share your activities and experiences with the GSSoC team, and actively engage with the ambassador community.
 
-## Exclusive Campus Ambassador Badge
+## Exclusive Campus Ambassador Digital ID Badge
 
-As a recognition of your new role, we’ve attached your personalized *GirlScript Summer of Code 2024 - Campus Ambassador* badge. Feel free to share it on your social media profiles! We can’t wait to see you showcasing it and inspiring others to join the movement.
+As a recognition of your new role, we’ve created your personalized *GirlScript Summer of Code 2024 - Campus Ambassador* badge. Feel free to share it on your social media profiles! We can’t wait to see you showcasing it and inspiring others to join the movement. 
+Download it from here: [Campus Ambassador Badge](https://gssoc.girlscript.tech/badgeId)
+1. Go to [Link](https://gssoc.girlscript.tech/badgeId)
+2. Enter your registered email ID
+3. Fill the required fields
+4. Choose your role (Which you have applied for)
+5. Click on Verify button
+6. Download the badge and Share it on Socials tagging us!
 
-![Campus Ambassador Badge](link-to-badge)
+If you have any queries or unable to download the badge ask here: [Digital ID Badge Issues](https://github.com/orgs/GSSoC24/discussions/720)
 
 We’re excited to have you as part of the team and look forward to seeing the impact you’ll make as a Campus Ambassador!
 
