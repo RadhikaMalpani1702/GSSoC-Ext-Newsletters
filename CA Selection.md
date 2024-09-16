@@ -3,7 +3,7 @@
 **Congratulations!** 🎉
 
 We are excited to inform you that you have been selected as a **Campus Ambassador** for the **GirlScript Summer of Code 2024 - Extended Edition!**.
-As a Campus Ambassador, you will play a key role in spreading the word about the program, organizing events, and motivating fellow students to engage with the open-source community. We are confident you will excel in this leadership role, and your efforts will contribute to making this program a great success!
+As a Campus Ambassador, you will play a key role in spreading the word about the program, organizing events, and motivating fellow students to engage with the open-source community.
 
 **You can find your Referral code and Referral link:** [Here](https://docs.google.com/spreadsheets/d/144ZENrmHnq7M1zWNANg_TkRQVaEEuJecG7eoZqfgm88/edit?usp=sharing)
 
@@ -39,6 +39,7 @@ Download it from here: [Campus Ambassador Badge](https://gssoc.girlscript.tech/b
 5. Click on Verify button
 6. Download the badge and Share it on Socials tagging us!
 
+![image](https://github.com/user-attachments/assets/931e55ee-c532-4747-81a3-13161a059023)
 
 Feel free to share it on your social media profiles! We can’t wait to see you showcasing it and inspiring others to join the movement. 
 
