@@ -50,4 +50,6 @@ We’re excited to have you as part of the team and look forward to seeing the i
 Best regards,  
 **The GirlScript Summer of Code 2024 Extended Team**
 
+![image](https://github.com/user-attachments/assets/7c312865-2b19-4f1c-ba61-ed36d3245688)
+
 [Website](https://gssoc.girlscript.tech/) | [Instagram](https://www.instagram.com/girlscriptsummerofcode/) | [LinkedIn](https://www.linkedin.com/company/girlscriptsoc/) | [Twitter](https://x.com/girlscriptsoc) | [YouTube](https://www.youtube.com/@girlscriptfoundation45)
