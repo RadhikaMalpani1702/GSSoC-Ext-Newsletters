@@ -16,7 +16,7 @@ As a Campus Ambassador, you will play a key role in spreading the word about the
    `Name | Campus Ambassador`  
    This will help fellow ambassadors and team members recognize you as part of the extended leadership team!
 3. **Stay Informed**  
-   Keep an eye on the **#ambassador-announcements** channel for key updates, tasks, and events. Your involvement is crucial to the success of this program, and staying informed will help you lead effectively.
+   Keep an eye on the **#ambassador-announcements** channel for key updates, tasks, and events. 
 
 ## Your Role as an Ambassador
 
