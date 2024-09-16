@@ -39,7 +39,6 @@ Download it from here: [Campus Ambassador Badge](https://gssoc.girlscript.tech/b
 5. Click on Verify button
 6. Download the badge and Share it on Socials tagging us!
 
-![CA (2)](https://github.com/user-attachments/assets/1c102304-c73c-4134-8101-8da751c05e23)
 
 Feel free to share it on your social media profiles! We can’t wait to see you showcasing it and inspiring others to join the movement. 
 
