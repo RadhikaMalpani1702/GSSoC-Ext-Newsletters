@@ -7,7 +7,7 @@ As a Campus Ambassador, you will play a key role in spreading the word about the
 
 **You can find your Referral code and Referral link:** [Here](https://docs.google.com/spreadsheets/d/144ZENrmHnq7M1zWNANg_TkRQVaEEuJecG7eoZqfgm88/edit?usp=sharing)
 
-## What’s Next?
+### What’s Next?
 
 1. **Join the Community on Discord**
    [Discord Invite Link](https://discord.gg/d4WNtsRH7d)
@@ -18,7 +18,7 @@ As a Campus Ambassador, you will play a key role in spreading the word about the
 3. **Stay Informed**  
    Keep an eye on the **#ambassador-announcements** channel for key updates, tasks, and events. 
 
-## Your Role as an Ambassador
+### Your Role as an Ambassador
 
 As a Campus Ambassador, you will have the following responsibilities:
 - **Spread Awareness**: Promote GSSoC within your campus, on social media, and among your peers.
@@ -26,7 +26,7 @@ As a Campus Ambassador, you will have the following responsibilities:
 - **Foster Participation**: Encourage students to participate in the program, attend webinars, and make contributions.
 - **Engage & Report**: Share your activities and experiences with the GSSoC team, and actively engage with the ambassador community.
 
-## Exclusive Campus Ambassador Digital ID Badge
+### Exclusive Campus Ambassador Digital ID Badge
 
 As a recognition of your new role, we’ve created your personalized *GirlScript Summer of Code 2024 - Campus Ambassador* badge. 
 Download it from here: [Campus Ambassador Badge](https://gssoc.girlscript.tech/badgeId)
@@ -43,7 +43,8 @@ Download it from here: [Campus Ambassador Badge](https://gssoc.girlscript.tech/b
 
 Feel free to share it on your social media profiles! We can’t wait to see you showcasing it and inspiring others to join the movement. 
 
-If you have any queries or unable to download the badge ask here: [Digital ID Badge Issues](https://github.com/orgs/GSSoC24/discussions/720)
+If you have any queries or unable to download the badge ask here: [Digital ID Badge Issues](https://github.com/orgs/GSSoC24/discussions/720) <br>
+Facing Registration Issues or Have Doubts? Ask Here!: [Discussion Link](https://github.com/orgs/GSSoC24/discussions/722)
 
 We’re excited to have you as part of the team and look forward to seeing the impact you’ll make as a Campus Ambassador!
 
