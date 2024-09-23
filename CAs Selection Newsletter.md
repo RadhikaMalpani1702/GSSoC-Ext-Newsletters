@@ -18,6 +18,9 @@ There’s still time to join us as a **Contributor**, **Campus Ambassador**, or 
 **Note for Campus Ambassadors:**  
 You can also register as **Contributors** and be a part of both roles in GSSoC 24 Extended!
 
+ 📢 Don’t wait—register now and invite your friends to join the fun! Let’s build something amazing together. 🌟
+
+📩 GSSoC Website: https://gssoc.girlscript.tech/
 
 ## Connect with Us for Any Guidance
 
@@ -29,6 +32,7 @@ Feel free to connect with our Program Managers:
 -  **[Mastan Sayyad (Program Manager)](https://www.linkedin.com/in/mastan-sayyad/)**  
 - **[Radhika Malpani (Program Manager)](https://www.linkedin.com/in/radhikamalpani1702/)**  
 -  **[Suhani Singh Paliwal (Program Manager)](https://www.linkedin.com/in/suhani-singh-paliwal/)**
+
 
 We look forward to having you on board for an amazing journey!
 
