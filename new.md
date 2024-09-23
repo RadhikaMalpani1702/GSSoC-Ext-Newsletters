@@ -1,6 +1,8 @@
 # 📢 GSSoC 24 Announcements and Updates
 
-Dear GSSoC Community,
+Hello, GSSoC 24 Extended Participants! 👋
+
+Welcome to the **GSSoC 24 Extended
 
 We’re excited to inform you that **Campus Ambassador selection emails have been rolled out**! 🎉 If you’ve applied for this role, please check your inbox for further instructions.
 
