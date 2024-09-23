@@ -4,7 +4,7 @@ Hello, GSSoC 24 Extended Participants! 👋
 
 We’re excited to inform you that **Campus Ambassador selection emails have been rolled out**! 🎉 If you’ve applied for this role, please check your inbox for further instructions.
 
-For those of you waiting for updates on **other roles (Contributors, Project Admins, and Program Associates)**, don't worry! Emails will be sent out **very soon**. Stay tuned!
+For those of you waiting for updates on **other roles (Contributors, Project Admins, and Mentors)**, don't worry! Emails will be sent out **very soon**. Stay tuned!
 
 **Facing any issues or haven’t received an email yet?**  
 Please drop your queries and concerns in this discussion thread:  
