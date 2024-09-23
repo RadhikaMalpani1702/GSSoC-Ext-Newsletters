@@ -35,4 +35,7 @@ Once again, congratulations! We are thrilled to have you onboard and can’t wai
 Best regards,  
 **The GirlScript Summer of Code 2024 Extended Team**
 
+![image](https://github.com/user-attachments/assets/3afd311d-26fd-42f5-a0e3-d40aba1524f5)
+
+
 [Website](https://gssoc.girlscript.tech/) | [Instagram](https://www.instagram.com/girlscriptsummerofcode/) | [LinkedIn](https://www.linkedin.com/company/girlscriptsoc/) | [Twitter](https://x.com/girlscriptsoc) | [YouTube](https://www.youtube.com/@girlscriptfoundation45)
